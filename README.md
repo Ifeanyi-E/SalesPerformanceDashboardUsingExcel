@@ -1,4 +1,5 @@
 Overview
+
 This repository contains an Excel-based sales dashboard designed to provide actionable insights into sales performance. The dashboard leverages a dataset of 34,866 records, encompassing key metrics such as:
 
 •	Date
